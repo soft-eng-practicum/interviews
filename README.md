@@ -5,6 +5,10 @@
 >
 > Maintainer - [Kevin Naughton Jr.](https://github.com/kdn251)
 
+## Example Questions
+
+See [QUESTIONS.md](QUESTIONS.md)
+
 ## Translations
 
 - [简体中文](./README-zh-cn.md)
